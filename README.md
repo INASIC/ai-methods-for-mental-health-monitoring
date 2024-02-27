@@ -16,3 +16,7 @@ For more details on the schedule, registration, and more, please navigate throug
 - [Schedule](schedule.md)
 - [Registration](registration.md)
 - [About](about.md)
+
+
+- [Invited talks and panel](invited_talks.md)
+- [Posters and demo sessions](about.md)
