@@ -1,6 +1,6 @@
 # Poster Sessions and Demos
 
-Welcome to the Poster Sessions and Demos page for our event. Here, we provide details on the innovative work our participants will showcase. We have two main sessions, one in the morning and another in the afternoon, each featuring in-person and online presentations.
+We have two main sessions, one in the morning and another in the afternoon, each featuring in-person and online presentations.
 
 ## Morning Poster Session (11:20 - 12:20)
 
