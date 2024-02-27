@@ -19,4 +19,4 @@ For more details on the schedule, registration, and more, please navigate throug
 
 
 - [Invited talks and panel](invited_talks.md)
-- [Posters and demo sessions](about.md)
+- [Posters and demo sessions](posters_and_demos.md)
