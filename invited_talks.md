@@ -34,7 +34,30 @@
 - **Abstract:** [Brief description of the talk]
 - **Bio:** [Short biography of the speaker]
 
-## Panel Discussion (14:30 - 15:15)
+#### Speaker 5
+![Speaker 5](images/speaker5.jpg)  
+- **Name:** [Speaker Name]
+- **Title:** [Talk Title]
+- **Abstract:** [Brief description of the talk]
+- **Bio:** [Short biography of the speaker]
+
+### Part 3: Afternoon Talks (14:05 - 15:05)
+
+#### Speaker 6
+![Speaker 6](images/speaker6.jpg)  
+- **Name:** [Speaker Name]
+- **Title:** [Talk Title]
+- **Abstract:** [Brief description of the talk]
+- **Bio:** [Short biography of the speaker]
+
+#### Speaker 7
+![Speaker 7](images/speaker7.jpg)  
+- **Name:** [Speaker Name]
+- **Title:** [Talk Title]
+- **Abstract:** [Brief description of the talk]
+- **Bio:** [Short biography of the speaker]
+
+## Panel Discussion (15:20 - 16:05)
 
 ### Topic
 - **Panel Topic:** [Topic Description]
